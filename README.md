@@ -17,3 +17,6 @@ It describes the schema that is used in the database along with the parameters. 
 
 The API has been tested with Postman. The results are given below:
 
+                      ![Screenshot (6490)](https://user-images.githubusercontent.com/61285140/136655634-e7771d8e-ec91-4ba4-9b01-78e20f4750e4.png)
+                      
+                      ![Screenshot (6491)](https://user-images.githubusercontent.com/61285140/136655658-f0b9e4b3-6c86-4b61-8979-591ff9036b52.png)
